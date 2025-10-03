@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author_id": "1",
+      "name": "Ada Lovelace",
+      "affiliation": "Independent",
+      "cited_by": 1234,
+      "interests": ["Mathematics", "Algorithms"]
+    },
+    {
+      "author_id": "2",
+      "name": "Alan Turing",
+      "affiliation": "University of Cambridge",
+      "cited_by": 5678,
+      "interests": ["Cryptography", "Computing"]
+    },
+    {
+      "author_id": "3",
+      "name": "Edsger Dijkstra",
+      "affiliation": "TU Eindhoven",
+      "cited_by": 3000,
+      "interests": ["Programming", "Algorithms"]
+    }
+  ]
+}
